@@ -1,9 +1,0 @@
-com/mycompany/gestionetudiantsockets/serveur/RequestProcessor.class
-com/mycompany/gestionetudiantsockets/client/ClientUI$1.class
-com/mycompany/gestionetudiantsockets/serveur/DatabaseManager.class
-com/mycompany/gestionetudiantsockets/serveur/ServeurApp.class
-com/mycompany/gestionetudiantsockets/serveur/ServeurThread.class
-com/mycompany/gestionetudiantsockets/client/ClientApp.class
-com/mycompany/gestionetudiantsockets/client/ClientSocketHandler.class
-com/mycompany/gestionetudiantsockets/client/ClientUI.class
-com/mycompany/gestionetudiantsockets/serveur/ServeurApp$TextAreaOutputStream.class
